@@ -23,4 +23,5 @@ Store wants to create an annual sales report for 2022. So that, they can underst
 • Target women customers of the age group (25-49 yrs) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
 Skills: Data Processing · Data Gathering · Data Visualization · Data Analysis · Dashboards · Pivot Tables · Data Cleaning · Microsoft Excel
-![Alt text]([image link](https://github.com/DewanshVk/Sales-performance-Dashboard-/blob/main/Book1.twbx)https://github.com/DewanshVk/Sales-performance-Dashboard-/blob/main/Book1.twbx)
+
+![Alt text]([image link](https://github.com/DewanshVk/Sales-performance-Dashboard-/blob/main/Book1.twbx)
