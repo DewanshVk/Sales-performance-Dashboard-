@@ -24,4 +24,4 @@ Store wants to create an annual sales report for 2022. So that, they can underst
 
 Skills: Data Processing · Data Gathering · Data Visualization · Data Analysis · Dashboards · Pivot Tables · Data Cleaning · Microsoft Excel
 
-![Alt text]([image link](https://github.com/DewanshVk/Sales-performance-Dashboard-/blob/main/Book1.twbx)
+![Alt text](https://github.com/DewanshVk/Sales-performance-Dashboard-/blob/main/Book1.twbx)
