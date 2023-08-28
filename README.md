@@ -19,9 +19,5 @@ Store wants to create an annual sales report for 2022. So that, they can underst
 • Relation between age and gender based on several orders.
 • Which channel is contributing to maximum sales?
 
-𝗙𝗶𝗻𝗮𝗹 𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻 𝘁𝗼 𝗶𝗺𝗽𝗿𝗼𝘃𝗲 𝗦𝘁𝗼𝗿𝗲 𝘀𝗮𝗹𝗲𝘀:-
-• Target women customers of the age group (25-49 yrs) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
-
 Skills: Data Processing · Data Gathering · Data Visualization · Data Analysis · Dashboards · Pivot Tables · Data Cleaning · Microsoft Excel
 
-![Alt text](https://github.com/DewanshVk/Sales-performance-Dashboard-/blob/main/Book1.twbx)
